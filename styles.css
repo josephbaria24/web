@@ -3,6 +3,19 @@ body {
   }
 
 .hd1 {
-    font-family: 'Abril Fatface';
+    color: rgb(116, 76, 28);
     text-align: center;
+    top: 25%;
+    left: 50%;
+    font-size: 450%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    
+}
+.im1 {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  z-index: 1;
 }
